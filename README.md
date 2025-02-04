@@ -5,5 +5,5 @@
 * The system visualizes trends, showing percentage increases or decreases in stock prices over a 7-day forecast.
 * Predictions and insights are displayed on an interactive website dashboard for easy analysis.
 
-To access the frontend of our project, Xampp zip folder is created.
-To access the main part of our project Predicting Stock Market Trends zip folder is created.
+1. To access the frontend of our project, Xampp zip folder is created.
+2. To access the main part of our project Predicting Stock Market Trends zip folder is created.
